@@ -17,8 +17,8 @@
         "display1Size": 4.25,
         "display2Font": "Corporate A BQ Regular",
         "display2Size": "3.8",
-        "display5Font": "Rubik",
-        "display5Size": 1.5,
+        "display5Font": "Poppins",
+        "display5Size": "0.8",
         "display7Font": "Rubik",
         "display7Size": 1,
         "display4Font": "Rubik",
@@ -45,6 +45,11 @@
         "name": "Corporate A BQ Regular",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/Corporate%20A%20BQ%20Regular/font.ttf"
+      },
+      {
+        "css": "'Poppins', sans-serif",
+        "name": "Poppins",
+        "url": "https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
     "versionFirst": "4.7.6",
