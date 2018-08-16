@@ -1374,7 +1374,7 @@ body {
 }
 .cid-r0NEbkb8sl {
   padding-top: 75px;
-  padding-bottom: 120px;
+  padding-bottom: 0px;
   background-color: #f9f9f9;
 }
 .cid-r0NEbkb8sl .mbr-section-subtitle {
@@ -1796,7 +1796,7 @@ body {
   color: #767676 !important;
 }
 .cid-r0TZDfTng3 {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #f9f9f9;
 }
@@ -1828,9 +1828,6 @@ body {
 .cid-r0TZDfTng3 .team-item .item-social .socicon {
   color: #232323;
   font-size: 17px;
-}
-.cid-r0TZDfTng3 .team-item .item-caption {
-  background: #efefef;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
